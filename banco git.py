@@ -99,8 +99,7 @@ while cond == 1:
     elif opcao == 'D':
         sair()
         break
-    else:
-        print('vai dar cu ramon e igor')
+
 
 
 
